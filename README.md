@@ -4,7 +4,7 @@
 
 ## Introduction
 
-Ce document recense les
+Ce document recense mes productions pédagogiques récentes.
 
 ## Réseau
 
@@ -62,7 +62,10 @@ Présentations réservées.
 https://linux.goffinet.org
 
 * Administration sécurisée
-* Services Linux (en révision)
+
+En révision :
+
+* Services Linux
 * VoIP / UC Open Source
 * Virtualisation Open Source
 
@@ -74,15 +77,19 @@ Supports de cours sur la technologie Linux
 
 https://cybersecurite.goffinet.org
 
+Document réservé mais disponible sous motivation.
+
 ### 9. Securité d'un poste Windows
 
-Document réservé
+Document réservé.
 
 ## Virtualisation
 
 ### 10. Hyper-V et PowerShell
 
 https://hyper-v.goffinet.org/
+
+Support de formation en révision.
 
 ### 11. Notes vSphere 6
 
@@ -107,3 +114,7 @@ Documentation.
 ### 14. Technologies sans-fil
 
 Document réservé.
+
+### 15. Introduction à DevOps
+
+Document réservé
