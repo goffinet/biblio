@@ -4,7 +4,9 @@
 
 ## Introduction
 
-Ce document recense mes productions pédagogiques récentes (2016 à aujourd'hui {{ gitbook.time }})
+Ce document recense mes productions pédagogiques récentes (2016 à aujourd'hui {{ gitbook.time }}).
+
+Contact via https://github.com/goffinet.
 
 ## Réseau
 
