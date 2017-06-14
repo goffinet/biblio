@@ -51,7 +51,7 @@ https://zabbix.goffinet.org
 
 Humbles notes sur la surveillance système et réseau.
 
-### 6. Téléphonie : Etat de l'Art
+### 6. Téléphonie IP : Etat de l'Art
 
 Présentations réservées.
 
