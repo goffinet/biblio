@@ -8,6 +8,11 @@ Ce document recense mes productions pédagogiques récentes (2016 à aujourd'hui
 
 Contact via https://github.com/goffinet.
 
+* [![HTML](/images/document-web.png) Format HTML](https://biblio.goffinet.org/)
+* [![PDF](/images/document-pdf.png) Format PDF](https://www.gitbook.com/download/pdf/book/goffinet/biblio)
+* [![EPUB](/images/document-epub.png) Format EPUB](https://www.gitbook.com/download/epub/book/goffinet/biblio)
+* [![MOBI](/images/document-mobi.png) Format MOBI](https://www.gitbook.com/download/mobi/book/goffinet/biblio)
+
 ## Réseau
 
 ### 1. CCNAv3
