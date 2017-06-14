@@ -1,0 +1,19 @@
+{
+    "plugins": [
+        "atoc",
+        "-lunr", "-search", "search-plus",
+        "hints",
+        "livereload"
+    ],
+    "pdf": {
+        "headerTemplate": "_TITLE_ - _SECTION_",
+        "margin": {
+            "left": 36,
+            "top": 36,
+            "bottom": 36
+        },
+        "fontSize": 10,
+        "paperSize": "a4",
+        "footerTemplate": "_AUTHOR_ _PAGENUM_"
+    }
+}
