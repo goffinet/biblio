@@ -124,4 +124,8 @@ Document réservé.
 
 ### 15. Introduction à DevOps
 
-Document réservé
+Document réservé.
+
+## Améliorations du document
+
+* Tables des matières.
