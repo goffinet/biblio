@@ -2,6 +2,8 @@
 layout: default
 description: "Liste des ouvrages, des supports numériques et des sites de formation par domaines IT (informatique) de François Goffinet, Formateur à Bruxelles et à Paris."
 toc: true
+date: 2019-04-09
+last_modified_at: 2019-04-09
 ---
 
 <!-- toc -->
