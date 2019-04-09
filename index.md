@@ -32,7 +32,7 @@ _François-Emmanuel Goffinet_
 
 ### III. Sécurité
 
-* [https://cybersecurite.goffinet.org](https://cybersecurite.goffinet.org) : Document réservé.
+* [https://cybersecurite.goffinet.org](https://cybersecurite.goffinet.org) : Cybersécurité : Sensibilisation et initiation.
 
 ### IV. Virtualisation
 
