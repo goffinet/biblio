@@ -14,7 +14,7 @@ youtube_channel: #test
 slideshare_username: fegoffi #test
 gitbook_username: #test
 
-google_analytics: #
+google_analytics: UA-79826195-1 #
 
 defaults:
   # _posts
