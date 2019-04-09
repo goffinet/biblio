@@ -1,6 +1,6 @@
 ---
 layout: default
-description: "Liste des supports numériques et des sites de formation par domaines IT (informatique)."
+description: "Liste des ouvrage et supports numériques, des sites de formation par domaines IT (informatique)."
 toc: true
 ---
 
@@ -30,7 +30,7 @@ _François-Emmanuel Goffinet_
 
 ### II. Systèmes
 
-* [https://linux.goffinet.org](https://linux.goffinet.org) : ...Sommaire...
+* [https://linux.goffinet.org](https://linux.goffinet.org) : Introduction à Linux, Le Shell, Arborescence de fichier, Sécurité locale, processus et démarrage, Installation de logicicels, Scripts Shell, Virtualisation KVM, Disques et stockage LVM, Configuration du réseau, Secure Shell, Gestion sécurisée, Routage et Pare-feu, Confidentialité, PKI et TLS, Audit, Services d'infrastructure, Services de partage, authentification centralisée, serveurs Web et Reverse Proxy, services de surveillance, serveurs de base de données, certifications LPIC1, LPIC2, RHCSA, RHCE, certifications Linux Foundation
 
 ### III. Sécurité
 
