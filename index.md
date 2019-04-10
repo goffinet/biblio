@@ -1,6 +1,6 @@
 ---
 layout: default
-description: "Liste des ouvrages, des supports numériques et des sites de formation par domaines IT (informatique) de François Goffinet, Formateur à Bruxelles et à Paris."
+description: "Liste des ouvrages, des supports numériques et des sites de formation par domaines IT (Réseau Télécom, Systèmes informatiques, Cybersécurité, Virtualisation, DevOps et Cloud) de François Goffinet, Formateur à Bruxelles et à Paris."
 toc: true
 date: 2019-04-09
 last_modified_at: 2019-04-10
@@ -28,11 +28,11 @@ _François-Emmanuel Goffinet_
 * [Formations Cisco](https://cisco.goffinet.org) : CCNA, ICND1, ICND2, CCNA Security, CCNP
 * [Protocole SIP, VoIP/UC](https://sip.goffinet.org) : Téléphonie IP, Unified Communications, Protocole SIP, Capture et analyse avec Wireshark, Asterisk Core, FreePBX, Raspberry Pi
 
-### II. Systèmes
+### II. Systèmes informatiques
 
 * [Administration Linux Système et Réseau](https://linux.goffinet.org) : Introduction à Linux, Le Shell, Arborescence de fichier, Sécurité locale, processus et démarrage, Installation de logicicels, Scripts Shell, Virtualisation KVM, Disques et stockage LVM, Configuration du réseau, Secure Shell, Gestion sécurisée, Routage et Pare-feu, Confidentialité, PKI et TLS, Audit, Services d'infrastructure, Services de partage, authentification centralisée, serveurs Web et Reverse Proxy, services de surveillance, serveurs de base de données, certifications LPIC1, LPIC2, RHCSA, RHCE, certifications Linux Foundation
 
-### III. Sécurité
+### III. Cybersécurité
 
 * [Cybersécurité et Hacking](https://cybersecurite.goffinet.org) : Cybersécurité : Sensibilisation et initiation, techniques de hacking.
 
@@ -42,7 +42,7 @@ _François-Emmanuel Goffinet_
 * [Installation, Configuration, Gestion de vSphere 6](https://vsphere6.goffinet.org) : Humbles notes sur vSphere 6.5
 * [Administration OpenStack](https://openstack.goffinet.org) : Notes de formation sur OpenStack
 
-### V. DevOps
+### V. DevOps et Cloud
 
 * [Technologies Web et plateforme Java EE](https://javaee.goffinet.org/web-01-protocole-http.html) : Introduction aux technologies, architectures et protocols Web HTTP, HTTPS, mise en oeuvre Apache HTTP Server, introduction à Java et aux plateformes Java EE
 * [Apache Tomcat](https://javaee.goffinet.org/tomcat-01-introduction-tomcat.html) : Administration du logiciel Apache Tomcat
