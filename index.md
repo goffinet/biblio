@@ -25,12 +25,12 @@ _François-Emmanuel Goffinet_
 ### I. Réseau Télécom
 
 
-* [Formations Cisco](https://cisco.goffinet.org) : CCNA, ICND1, ICND2, CCNA Security, CCNP
-* [Protocole SIP, VoIP/UC](https://sip.goffinet.org) : Téléphonie IP, Unified Communications, Protocole SIP, Capture et analyse avec Wireshark, Asterisk Core, FreePBX, Raspberry Pi
+* [Formations Cisco](https://cisco.goffinet.org) : CCNA, ICND1, ICND2, CCNA Security, CCNP.
+* [Protocole SIP, VoIP/UC](https://sip.goffinet.org) : Téléphonie IP, Unified Communications, Protocole SIP, Capture et analyse avec Wireshark, Asterisk Core, FreePBX, Raspberry Pi.
 
 ### II. Systèmes informatiques
 
-* [Administration Linux Système et Réseau](https://linux.goffinet.org) : Introduction à Linux, Le Shell, Arborescence de fichier, Sécurité locale, processus et démarrage, Installation de logicicels, Scripts Shell, Virtualisation KVM, Disques et stockage LVM, Configuration du réseau, Secure Shell, Gestion sécurisée, Routage et Pare-feu, Confidentialité, PKI et TLS, Audit, Services d'infrastructure, Services de partage, authentification centralisée, serveurs Web et Reverse Proxy, services de surveillance, serveurs de base de données, certifications LPIC1, LPIC2, RHCSA, RHCE, certifications Linux Foundation
+* [Administration Linux Système et Réseau](https://linux.goffinet.org) : Introduction à Linux, Le Shell, Arborescence de fichier, Sécurité locale, processus et démarrage, Installation de logicicels, Scripts Shell, Virtualisation KVM, Disques et stockage LVM, Configuration du réseau, Secure Shell, Gestion sécurisée, Routage et Pare-feu, Confidentialité, PKI et TLS, Audit, Services d'infrastructure, Services de partage, authentification centralisée, serveurs Web et Reverse Proxy, services de surveillance, serveurs de base de données, certifications LPIC1, LPIC2, RHCSA, RHCE, certifications Linux Foundation.
 
 ### III. Cybersécurité
 
@@ -38,33 +38,33 @@ _François-Emmanuel Goffinet_
 
 ### IV. Virtualisation
 
-* [Administration Hyper-V et PowerShell](https://hyper-v.goffinet.org/) : Hyper-V et PowerShell
-* [Installation, Configuration, Gestion de vSphere 6](https://vsphere6.goffinet.org) : Humbles notes sur vSphere 6.5
-* [Administration OpenStack](https://openstack.goffinet.org) : Notes de formation sur OpenStack
+* [Administration Hyper-V et PowerShell](https://hyper-v.goffinet.org/) : Hyper-V et PowerShell.
+* [Installation, Configuration, Gestion de vSphere 6](https://vsphere6.goffinet.org) : Humbles notes sur vSphere 6.5.
+* [Administration OpenStack](https://openstack.goffinet.org) : Notes de formation sur OpenStack.
 
 ### V. DevOps et Cloud
 
-* [Technologies Web et plateforme Java EE](https://javaee.goffinet.org/web-01-protocole-http.html) : Introduction aux technologies, architectures et protocols Web HTTP, HTTPS, mise en oeuvre Apache HTTP Server, introduction à Java et aux plateformes Java EE
-* [Apache Tomcat](https://javaee.goffinet.org/tomcat-01-introduction-tomcat.html) : Administration du logiciel Apache Tomcat
-* [Apache Maven](https://javaee.goffinet.org/maven-00-notes.html) : Introduction au Builder Maven
-* [Oracle WebLogic Server](https://javaee.goffinet.org/wls-00-notes.html) : Administration du logiciel Oracle WebLogic Server
-* [IBM Websphere Application Server](https://javaee.goffinet.org/was-01-introduction.html) : Administration du logiciel IBM Websphere Application Server
-* [Git](https://git.goffinet.org) : Livre Pro Git v2 repris
-* [GitLab CI](https://gitlab-ci.goffinet.org) : Support de formation sur les fonctionnalités DevOps CI/CD du service Gitlab
-* [Ansible Système et réseau](https://ansible.goffinet.org) : Support de formation sur l'outil de gestion de configuration, orchestrateur et IaC Ansible sur les systèmes Linux et Cisco
-* [Docker, Compose, Swarm](https://docker.goffinet.org) : Support de formation sur le logiciel Docker largement inspiré d'un projet officiel
+* [Technologies Web et plateforme Java EE](https://javaee.goffinet.org/web-01-protocole-http.html) : Introduction aux technologies, architectures et protocols Web HTTP, HTTPS, mise en oeuvre Apache HTTP Server, introduction à Java et aux plateformes Java EE.
+* [Apache Tomcat](https://javaee.goffinet.org/tomcat-01-introduction-tomcat.html) : Administration du serveur de servlets Apache Tomcat.
+* [Apache Maven](https://javaee.goffinet.org/maven-00-notes.html) : Introduction au Builder Maven.
+* [Oracle WebLogic Server](https://javaee.goffinet.org/wls-00-notes.html) : Administration du logiciel Oracle WebLogic Server (WLS).
+* [IBM Websphere Application Server](https://javaee.goffinet.org/was-01-introduction.html) : Administration du logiciel IBM Websphere Application Server (WAS).
+* [Git](https://git.goffinet.org) : Livre Pro Git v2 en français.
+* [GitLab CI](https://gitlab-ci.goffinet.org) : Support de formation sur les fonctionnalités DevOps CI/CD du service Gitlab.
+* [Ansible Système et réseau](https://ansible.goffinet.org) : Support de formation sur l'outil de gestion de configuration, orchestrateur et IaC Ansible sur les systèmes Linux et Cisco.
+* [Docker, Compose, Swarm](https://docker.goffinet.org) : Support de formation sur le logiciel Docker largement inspiré d'un projet officiel.
 
 ### VI. En cours de développement
 
-* [Kubernetes K8s](https://k8s.goffinet.org) : En développement
-* Terraform  : En développement
-* Introduction à DevOps :  Théorie certificative
-* Introduction à AWS  :  Théorie certificative
-* AWS S3  :  Théorie certificative, Étude de cas : archivage, site Web Statique
-* AWS EC2  :  Théorie certificative, Étude de cas : archivage, site Web dynamique
-* AWS ECS / EKS  :  Étude de cas
+* [Kubernetes K8s](https://k8s.goffinet.org) : En développement.
+* Terraform  : En développement.
+* Introduction à DevOps :  En développement, Théorie certificative.
+* Introduction à AWS  :  En développement, Théorie certificative
+* AWS S3  : En développement, Théorie certificative, Étude de cas : archivage, site Web Statique
+* AWS EC2  : En développement, Théorie certificative, Étude de cas : archivage, site Web dynamique
+* AWS ECS / EKS : En développement, Étude de cas
 
 ### VII. Documents pour mémoire
 
-* [Internet de Objets (IoT)](https://iot.goffinet.org) : Inventaire et notes personnelles sur des études de cas IoT
+* [Internet de Objets (IoT)](https://iot.goffinet.org) : Concepts, inventaire matériel et notes personnelles sur des études de cas IoT.
 * [Notes Zabbix](https://zabbix.goffinet.org) : Humbles notes sur la surveillance système et réseau avec Zabbix.
