@@ -34,7 +34,7 @@ _François-Emmanuel Goffinet_
 
 ### III. Cybersécurité
 
-* [Cybersécurité et Hacking](https://cybersecurite.goffinet.org) : Cybersécurité : Sensibilisation et initiation, techniques de hacking, _document réservé_.
+* [Cybersécurité et Hacking](https://cybersecurite.goffinet.org) : Cybersécurité : Sensibilisation et initiation, techniques de hacking, <i class="far fa-times-circle"></i> _document réservé_.
 
 ### IV. Virtualisation
 
@@ -56,15 +56,15 @@ _François-Emmanuel Goffinet_
 
 ### VI. En cours de développement
 
-* [Kubernetes K8s](https://k8s.goffinet.org) : En développement.
-* Terraform  : En développement.
-* Introduction à DevOps :  En développement, Théorie certificative.
-* Introduction à AWS  :  En développement, Théorie certificative
-* AWS S3  : En développement, Théorie certificative, Étude de cas : archivage, site Web Statique
-* AWS EC2  : En développement, Théorie certificative, Étude de cas : archivage, site Web dynamique
-* AWS ECS / EKS : En développement, Étude de cas
+* [Kubernetes K8s](https://k8s.goffinet.org) : <i class="fab fa-searchengin"></i> _En développement_.
+* Terraform  : <i class="fab fa-searchengin"></i> _En développement_.
+* Introduction à DevOps :  <i class="fab fa-searchengin"></i> _En développement_, Théorie certificative.
+* Introduction à AWS  :  <i class="fab fa-searchengin"></i> _En développement_, Théorie certificative
+* AWS S3  : <i class="fab fa-searchengin"></i> _En développement_, Théorie certificative, Étude de cas : archivage, site Web Statique
+* AWS EC2  : <i class="fab fa-searchengin"></i> _En développement_, Théorie certificative, Étude de cas : archivage, site Web dynamique
+* AWS ECS / EKS : <i class="fab fa-searchengin"></i> _En développement_, Étude de cas
 
 ### VII. Documents pour mémoire
 
-* [Internet de Objets (IoT)](https://iot.goffinet.org) : Concepts, inventaire matériel et notes personnelles sur des études de cas IoT.
-* [Notes Zabbix](https://zabbix.goffinet.org) : Humbles notes sur la surveillance système et réseau avec Zabbix.
+* [Internet de Objets (IoT)](https://iot.goffinet.org) : Concepts, inventaire matériel et notes personnelles sur des études de cas IoT. <i class="fas fa-download"></i> _Ebooks en téléchargement_
+* [Notes Zabbix](https://zabbix.goffinet.org) : Humbles notes sur la surveillance système et réseau avec Zabbix. <i class="fas fa-download"></i> _Ebooks en téléchargement_
