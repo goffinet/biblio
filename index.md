@@ -25,8 +25,8 @@ _François-Emmanuel Goffinet_
 ### I. Réseau Télécom
 
 
-* [https://cisco.goffinet.org](https://cisco.goffinet.org) : CCNA, ICND1, ICND2, CCNA Security, CCNP
-* [https://sip.goffinet.org](https://sip.goffinet.org) : Téléphonie IP, Unified Communications, Protocole SIP, Capture et analyse avec Wireshark, Asterisk Core, FreePBX, Raspberry Pi
+* [Formations Cisco](https://cisco.goffinet.org) : CCNA, ICND1, ICND2, CCNA Security, CCNP
+* [Protocole SIP, VoIP/UC](https://sip.goffinet.org) : Téléphonie IP, Unified Communications, Protocole SIP, Capture et analyse avec Wireshark, Asterisk Core, FreePBX, Raspberry Pi
 
 ### II. Systèmes
 
@@ -34,13 +34,13 @@ _François-Emmanuel Goffinet_
 
 ### III. Sécurité
 
-* [https://cybersecurite.goffinet.org](https://cybersecurite.goffinet.org) : Cybersécurité : Sensibilisation et initiation.
+* [Cybersécurité et Hacking](https://cybersecurite.goffinet.org) : Cybersécurité : Sensibilisation et initiation, techniques de hacking.
 
 ### IV. Virtualisation
 
-* [https://hyper-v.goffinet.org/](https://hyper-v.goffinet.org/) : Hyper-V et PowerShell
-* [https://vsphere6.goffinet.org](https://vsphere6.goffinet.org) : Humbles notes sur vSphere 6.5
-* [https://openstack.goffinet.org](https://openstack.goffinet.org) : Notes de formation sur OpenStack
+* [Administration Hyper-V et PowerShell](https://hyper-v.goffinet.org/) : Hyper-V et PowerShell
+* [Installation, Configuration, Gestion de vSphere 6](https://vsphere6.goffinet.org) : Humbles notes sur vSphere 6.5
+* [Administration OpenStack](https://openstack.goffinet.org) : Notes de formation sur OpenStack
 
 ### V. DevOps
 
@@ -66,5 +66,5 @@ _François-Emmanuel Goffinet_
 
 ### VII. Documents pour mémoire
 
-* [https://iot.goffinet.org](https://iot.goffinet.org) : Inventaire et notes personnelles sur des études de cas IoT
-* [https://zabbix.goffinet.org](https://zabbix.goffinet.org) : Humbles notes sur la surveillance système et réseau avec Zabbix.
+* [Internet de Objets (IoT)](https://iot.goffinet.org) : Inventaire et notes personnelles sur des études de cas IoT
+* [Notes Zabbix](https://zabbix.goffinet.org) : Humbles notes sur la surveillance système et réseau avec Zabbix.
