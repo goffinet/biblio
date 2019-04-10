@@ -7,15 +7,15 @@ baseurl: ""
 
 font-awesome-include: true # make this false if you don't need font-awesome
 
-github_username: goffinet #test
-twitter_username: goffinet #test
-linkedin_username: fegoffinet #test
-youtube_channel: #test
-slideshare_username: fegoffinet #test
-gitbook_username: #test
+github_username: goffinet
+twitter_username: goffinet
+linkedin_username: fegoffinet
+youtube_channel:
+slideshare_username: fegoffinet
+gitbook_username:
 gitlab_username: goffinet
 
-google_analytics: UA-79826195-1 #
+google_analytics: UA-21733018-25 #
 
 defaults:
   # _posts
