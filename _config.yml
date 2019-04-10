@@ -15,7 +15,7 @@ slideshare_username: fegoffinet
 gitbook_username:
 gitlab_username: goffinet
 
-google_analytics: UA-21733018-25 #
+google_analytics: UA-21733018-25
 
 defaults:
   # _posts
@@ -39,3 +39,10 @@ exclude:
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-email-protect
+  - jekyll-extlinks
+
+# https://github.com/d-ogarkov/jekyll-extlinks
+extlinks:
+  attributes: {rel: nofollow, target: _blank}
+  rel_exclude: ['biblio.goffinet.org', '127.0.0.1', 'localhost']
