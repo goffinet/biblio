@@ -30,7 +30,7 @@ _François-Emmanuel Goffinet_
 
 ### II. Systèmes
 
-* [https://linux.goffinet.org](https://linux.goffinet.org) : Introduction à Linux, Le Shell, Arborescence de fichier, Sécurité locale, processus et démarrage, Installation de logicicels, Scripts Shell, Virtualisation KVM, Disques et stockage LVM, Configuration du réseau, Secure Shell, Gestion sécurisée, Routage et Pare-feu, Confidentialité, PKI et TLS, Audit, Services d'infrastructure, Services de partage, authentification centralisée, serveurs Web et Reverse Proxy, services de surveillance, serveurs de base de données, certifications LPIC1, LPIC2, RHCSA, RHCE, certifications Linux Foundation
+* [Administration Linux Système et réseau](https://linux.goffinet.org) : Introduction à Linux, Le Shell, Arborescence de fichier, Sécurité locale, processus et démarrage, Installation de logicicels, Scripts Shell, Virtualisation KVM, Disques et stockage LVM, Configuration du réseau, Secure Shell, Gestion sécurisée, Routage et Pare-feu, Confidentialité, PKI et TLS, Audit, Services d'infrastructure, Services de partage, authentification centralisée, serveurs Web et Reverse Proxy, services de surveillance, serveurs de base de données, certifications LPIC1, LPIC2, RHCSA, RHCE, certifications Linux Foundation
 
 ### III. Sécurité
 
@@ -51,7 +51,7 @@ _François-Emmanuel Goffinet_
 * [IBM Websphere Application Server](https://javaee.goffinet.org/was-01-introduction.html) : Administration du logiciel IBM Websphere Application Server
 * [Git](https://git.goffinet.org) : Livre Pro Git v2 repris
 * [GitLab CI](https://gitlab-ci.goffinet.org) : Support de formation sur les fonctionnalités DevOps CI/CD du service Gitlab
-* [Ansible](https://ansible.goffinet.org) : Support de formation sur l'outil de gestion de configuration, orchestrateur et IaC Ansible sur les systèmes Linux et Cisco
+* [Ansible Système et réseau](https://ansible.goffinet.org) : Support de formation sur l'outil de gestion de configuration, orchestrateur et IaC Ansible sur les systèmes Linux et Cisco
 * [Docker](https://docker.goffinet.org) : Support de formation sur le logiciel Docker largement inspiré d'un projet officiel
 
 ### VI. En cours de développement
