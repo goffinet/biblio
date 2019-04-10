@@ -52,7 +52,7 @@ _François-Emmanuel Goffinet_
 * [Git](https://git.goffinet.org) : Livre Pro Git v2 repris
 * [GitLab CI](https://gitlab-ci.goffinet.org) : Support de formation sur les fonctionnalités DevOps CI/CD du service Gitlab
 * [Ansible Système et réseau](https://ansible.goffinet.org) : Support de formation sur l'outil de gestion de configuration, orchestrateur et IaC Ansible sur les systèmes Linux et Cisco
-* [Docker](https://docker.goffinet.org) : Support de formation sur le logiciel Docker largement inspiré d'un projet officiel
+* [Docker, Compose, Swarm](https://docker.goffinet.org) : Support de formation sur le logiciel Docker largement inspiré d'un projet officiel
 
 ### VI. En cours de développement
 
