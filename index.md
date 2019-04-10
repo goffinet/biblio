@@ -64,7 +64,7 @@ _François-Emmanuel Goffinet_
 * AWS EC2  :  Théorie certificative, Étude de cas : archivage, site Web dynamique
 * AWS ECS / EKS  :  Étude de cas
 
-### VI. Documents pour mémoire
+### VII. Documents pour mémoire
 
 * [https://iot.goffinet.org](https://iot.goffinet.org) : Inventaire et notes personnelles sur des études de cas IoT
 * [https://zabbix.goffinet.org](https://zabbix.goffinet.org) : Humbles notes sur la surveillance système et réseau avec Zabbix.
