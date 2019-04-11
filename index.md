@@ -10,7 +10,7 @@ last_modified_at: 2019-04-10
 
 ### Présentation
 
-François(-Emmanuel) Goffinet est formateur francophone installé à Bruxelles et à Paris spécialisé dans le domaine du déploiement et de la gestion d'infrastructures informatiques.
+François(-Emmanuel) Goffinet est formateur francophone installé à Bruxelles et à Paris spécialisé dans le domaine du déploiement et de la gestion d'infrastructures informatiques. Il travaille pour des centres de formation bien connus sur le marché.
 
 Son modèle de travail consiste à livrer des formations en "présentiel" auprès d'un public de professionnels et à publier ses supports en les offrant à la lecture du plus grand nombre. En effet, si la documentation technique disponible en français est rare dans ce domaine, c'est d'autant plus le cas en ce qui concerne les supports de formation immédiatement utilisables. Aussi, il imagine que les personnes rencontrées aiment à réviser les sujets étudiés même plusieurs mois après la formation. Il est important d'être en mesure de reprendre la documentation du cours et de suivre ses évolutions.
 
