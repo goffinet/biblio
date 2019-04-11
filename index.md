@@ -76,5 +76,8 @@ _François-Emmanuel Goffinet_
 ---
 
 <div id="github-card"
-     data-username="goffinet">
+     data-username="goffinet"
+     data-max-repos="3"
+     data-sort-by="stars"
+     data-header-text="Most starred repositories">
 </div>
