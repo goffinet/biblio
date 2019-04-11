@@ -72,10 +72,3 @@ _François-Emmanuel Goffinet_
 
 * [Internet de Objets (IoT)](https://iot.goffinet.org) : Concepts, inventaire matériel et notes personnelles sur des études de cas IoT. <i class="fas fa-download"></i> _Ebooks en téléchargement_
 * [Notes Zabbix](https://zabbix.goffinet.org) : Humbles notes sur la surveillance système et réseau avec Zabbix. <i class="fas fa-download"></i> _Ebooks en téléchargement_
-
----
-
-<div id="github-card"
-     data-username="goffinet"
-     data-sort-by="stars"
-</div>
