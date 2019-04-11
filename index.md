@@ -75,6 +75,7 @@ _François-Emmanuel Goffinet_
 
 ---
 
-  <div class="content-section">
-    <div id="github-widget" data-username="goffinet"></div>
-  </div>
+<div id="github-card"
+     data-username="goffinet"
+     data-sort-by="stars"
+</div>
