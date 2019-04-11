@@ -42,7 +42,7 @@ _François-Emmanuel Goffinet_
 * [Installation, Configuration, Gestion de vSphere 6](https://vsphere6.goffinet.org) : Humbles notes sur vSphere 6.5.  <i class="fas fa-download"></i> _Ebooks en téléchargement_
 * [Administration OpenStack](https://openstack.goffinet.org) : Notes de formation sur OpenStack. <i class="fas fa-download"></i> _Ebooks en téléchargement_
 
-### V. DevOps et Cloud
+### V. DevOps, IaC et Cloud
 
 * [Technologies Web et plateforme Java EE](https://javaee.goffinet.org/web-01-protocole-http.html) : Introduction aux technologies, architectures et protocols Web HTTP, HTTPS, mise en oeuvre Apache HTTP Server, introduction à Java et aux plateformes Java EE. <i class="fas fa-download"></i> _Ebooks en téléchargement_
 * [Apache Tomcat](https://javaee.goffinet.org/tomcat-01-introduction-tomcat.html) : Administration du serveur de servlets Apache Tomcat. <i class="fas fa-download"></i> _Ebooks en téléchargement_
