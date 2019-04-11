@@ -75,8 +75,6 @@ _François-Emmanuel Goffinet_
 
 ---
 
-<script type="text/javascript" src="http://biblio.goffinet.org/assets/scripts/gh-profile-card.min.js"></script>
-
 <div id="github-card"
      data-username="goffinet">
 </div>
