@@ -16,7 +16,11 @@ Son modèle de travail consiste à livrer des formations en "présentiel" auprè
 
 La règle générale est de suivre les droits associés aux produits qui font l'objet d'un support de formation. Par exemple, les supports Cisco, VMWare, etc. restent soumis à des droits réservés (Copyrights). Par contre, tous les sujets autour des produits Open Source sont soumis à des licences libres (MIT, CC-BY-SA, ...) ainsi que les bouts de codes cités.
 
-Tous ces sujets ont été développés dans la perspective de leur application dans un métier de l'informatique. Mais l'auteur n'apporte aucune garantie sur leur qualité et décline toute responsabilité dans leur mise en oeuvre dans un contexte de production. Ces supports sont réservés uniquement à l'apprentissage et s'exécutent dans des environnements de test. Il ont été écrits, testés et documentés en classe de formation dans des situations qui peuvent changer très vite (versions des logiciels, méthodologies, objectifs, facteurs humains, ...). Tous les contenus développés sont en révision continue.
+Tous ces sujets ont été développés dans la perspective de leur application dans un métier de l'informatique. Mais l'auteur n'apporte aucune garantie sur leur qualité et décline toute responsabilité dans leur mise en oeuvre dans un contexte de production. Ces supports sont réservés uniquement à l'apprentissage et s'exécutent dans des environnements de test. Il ont été écrits, testés et documentés en classe de formation dans des situations qui peuvent changer très vite (versions des logiciels, méthodologies, objectifs, facteurs humains, ...). Tous les contenus sont gérés à partir d'un gestionnaire de source et générés en intégration continue.
+
+Voici mon activité sur Github :
+
+<img src="http://ghchart.rshah.org/goffinet" alt="Activité de @goffinet sur GitHub" />
 
 Vous souhaitant une bonne lecture,
 
