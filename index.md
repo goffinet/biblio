@@ -78,5 +78,5 @@ _François-Emmanuel Goffinet_
 <script type="text/javascript" src="http://github-profile.com/dist/gh-profile-card.min.js"></script>
 
 <div id="github-card"
-     data-username="YOUR_GITHUB_USERNAME">
+     data-username="goffinet">
 </div>
