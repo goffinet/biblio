@@ -20,7 +20,7 @@ Tous ces sujets ont été développés dans la perspective de leur application d
 
 Voici mon activité sur Github :
 
-<img src="http://ghchart.rshah.org/409ba5/goffinet" alt="Activité de @goffinet sur GitHub" />
+<img src="https://ghchart.rshah.org/409ba5/goffinet" alt="Activité de @goffinet sur GitHub" />
 
 Vous souhaitant une bonne lecture,
 
