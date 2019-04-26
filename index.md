@@ -34,7 +34,7 @@ _François-Emmanuel Goffinet_
 
 ### II. Systèmes informatiques
 
-* [Administration Linux Système et Réseau](https://linux.goffinet.org) : Introduction à Linux, Le Shell, Arborescence de fichier, Sécurité locale, processus et démarrage, Installation de logicicels, Scripts Shell, Virtualisation KVM, Disques et stockage LVM, Configuration du réseau, Secure Shell, Gestion sécurisée, Routage et Pare-feu, Confidentialité, PKI et TLS, Audit, Services d'infrastructure, Services de partage, authentification centralisée, serveurs Web et Reverse Proxy, services de surveillance, serveurs de base de données, certifications LPIC1, LPIC2, RHCSA, RHCE, certifications Linux Foundation. <i class="fas fa-download"></i> _Ebooks en téléchargement_
+* [Administration Linux Système et Réseau](https://linux.goffinet.org) : Introduction à Linux, Le Shell, Arborescence de fichier, Sécurité locale, Processus et démarrage, Noyau Linux, Installation de logicicels, Scripts Shell, Virtualisation KVM, Disques et stockage LVM, Configuration du réseau, Secure Shell, Gestion sécurisée, Routage et Pare-feu, Confidentialité, PKI et TLS, Audit, Services d'infrastructure, Services de partage, authentification centralisée, serveurs Web et Reverse Proxy, services de surveillance, serveurs de base de données, certifications LPIC1, LPIC2, RHCSA, RHCE, certifications Linux Foundation. <i class="fas fa-download"></i> _Ebooks en téléchargement_
 
 ### III. Cybersécurité
 

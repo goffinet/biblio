@@ -48,9 +48,15 @@
     <h2>{{ page.description }}</h2>
     {% endif %}
 
+    <p> Partager sur :</p>
+    {% include sharing.html %}
+
+
+
     {% if page.read_time %}
     <p><i class="far fa-clock" aria-hidden="true"></i> {% include read-time.html %}.</p>
     {% endif %}
+
     {% if page.last_modified_at %}
     <p><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Mis à jour le <time datetime="{{ page.last_modified_at | date: "%Y-%m-%d" }}">{% assign dy = page.last_modified_at | date: "%a" %}{% case dy %}{% when "Mon" %}Lundi{% when "Tue" %}Mardi{% when "Wed" %}Mercredi{% when "Thu" %}Jeudi{% when "Fri" %}Vendredi{% when "Sat" %}Samedi{% when "Sun" %}Dimanche{% else %}{{ dy }}{% endcase %} {% assign d = page.last_modified_at | date: "%-d"  %}{% case d %}{% when '1' %}{{ d }}er{% else %}{{ d }}{% endcase %} {% assign m = page.last_modified_at | date: "%-m" %}{% case m %}{% when '1' %}janvier{% when '2' %}février{% when '3' %}mars{% when '4' %}avril{% when '5' %}mai{% when '6' %}juin{% when '7' %}juillet{% when '8' %}août{% when '9' %}septembre{% when '10' %}octobre{% when '11' %}novembre{% when '12' %}décembre{% endcase %} {{ page.last_modified_at | date: '%Y' }}</time>.</p>
     {% elsif page.date %}
@@ -63,6 +69,11 @@
     {% endif %}
 
     {{ content }}
+    </div>
+
+    <div class="container">
+      <p> Partager sur :</p>
+      {% include sharing.html %}
     </div>
 
     <div class="container">
