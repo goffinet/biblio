@@ -3,7 +3,7 @@ layout: default
 description: "Liste des ouvrages, des supports numériques et des sites de formation par domaines IT (Réseau Télécom, Systèmes informatiques, Cybersécurité, Virtualisation, DevOps et Cloud) de François Goffinet, Formateur à Bruxelles et à Paris."
 toc: true
 date: 2019-04-09
-last_modified_at: 2019-04-10
+last_modified_at: 2019-04-27
 ---
 
 <!-- toc -->
@@ -56,12 +56,14 @@ _François-Emmanuel Goffinet_
 * [Git](https://git.goffinet.org) : Livre Pro Git v2 en français. <i class="fas fa-download"></i> _Ebooks en téléchargement_
 * [GitLab CI](https://gitlab-ci.goffinet.org) : Support de formation sur les fonctionnalités DevOps CI/CD du service Gitlab. <i class="fas fa-download"></i> _Ebooks en téléchargement_
 * [Ansible Système et réseau](https://ansible.goffinet.org) : Support de formation sur l'outil de gestion de configuration, orchestrateur et IaC Ansible sur les systèmes Linux et Cisco. <i class="fas fa-download"></i> _Ebooks en téléchargement_
-* [Docker, Compose, Swarm](https://docker.goffinet.org) : Support de formation sur le logiciel Docker largement inspiré d'un projet officiel. <i class="fas fa-download"></i> _Ebooks en téléchargement_
+* [Docker, Compose, Swarm, Kubernetes K8s](https://docker.goffinet.org) : Support de formation sur le logiciel "container engine" Docker et l'orchestrateur de conteneurs Kubernetes K8s, il est largement inspiré d'un projet officiel. <i class="fas fa-download"></i> _Ebooks en téléchargement_
 
 ### VI. En cours de développement
 
-* [Kubernetes K8s](https://k8s.goffinet.org) : <i class="fab fa-searchengin"></i> _En développement_.
-* Terraform  : <i class="fab fa-searchengin"></i> _En développement_.
+* Formats d'échanges de données textuelles : base XML, traitement JSON, écriture en YAML et INI <i class="fab fa-searchengin"></i> _En développement_.
+* Technologies Web : Protocoles, architectures et plateformes du WWW <i class="fab fa-searchengin"></i> _En développement_.
+* Outils IaC : Terraform, CloudFormation, Heat <i class="fab fa-searchengin"></i> _En développement_.
+* Technologies en nuage : Présentation des technologies en nuage <i class="fab fa-searchengin"></i> _En développement_.
 * Introduction à DevOps :  <i class="fab fa-searchengin"></i> _En développement_, Théorie certificative.
 * Introduction à AWS  :  <i class="fab fa-searchengin"></i> _En développement_, Théorie certificative
 * AWS S3  : <i class="fab fa-searchengin"></i> _En développement_, Théorie certificative, Étude de cas : archivage, site Web Statique
