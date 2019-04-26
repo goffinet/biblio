@@ -66,9 +66,11 @@ _François-Emmanuel Goffinet_
 * Technologies en nuage : Présentation des technologies en nuage <i class="fab fa-searchengin"></i> _En développement_.
 * Introduction à DevOps :  <i class="fab fa-searchengin"></i> _En développement_, Théorie certificative.
 * Introduction à AWS  :  <i class="fab fa-searchengin"></i> _En développement_, Théorie certificative
-* AWS S3  : <i class="fab fa-searchengin"></i> _En développement_, Théorie certificative, Étude de cas : archivage, site Web Statique
-* AWS EC2  : <i class="fab fa-searchengin"></i> _En développement_, Théorie certificative, Étude de cas : archivage, site Web dynamique
-* AWS ECS / EKS : <i class="fab fa-searchengin"></i> _En développement_, Étude de cas
+* AWS S3  : <i class="fab fa-searchengin"></i> _En développement_, Théorie certificative, Études de cas : archivage, mise à disposition temporaire de fichiers, site Web Statique.
+* AWS EC2  : <i class="fab fa-searchengin"></i> _En développement_, Théorie certificative, Étude de cas : ressource dans le nuage, site Web dynamique
+* AWS ECS / EKS : <i class="fab fa-searchengin"></i> _En développement_, Étude de cas de déploiement d'applications Web.
+* GCP GKE : <i class="fab fa-searchengin"></i> _En développement_, Étude de cas de déploiement d'applications Web.
+* FaaS AWS Lambda et GCP Cloud Functions : <i class="fab fa-searchengin"></i> _En développement_, Étude de cas de déploiement d'applications Web.
 
 ### VII. Documents pour mémoire
 
